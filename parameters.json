@@ -85,7 +85,7 @@
             "value": "azure"
         },
         "adminPassword": {
-            "value": null
+            "value": "azure"
         }
     }
 }
